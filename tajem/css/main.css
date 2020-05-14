@@ -192,7 +192,7 @@ button {
 }
 @media (max-width: 600px) {
   .header__inner {
-    margin-top: -400px;
+    margin-top: -360px;
   }
 }
 @media (max-width: 480px) {
